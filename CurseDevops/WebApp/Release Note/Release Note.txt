@@ -1,0 +1,6 @@
+﻿/*
+Fecha : 2019-07-14
+Realizado: Duvan Baena
+Proyecto : 
+Descripcion : document all types of addictions to be taken into account in projects
+*/
