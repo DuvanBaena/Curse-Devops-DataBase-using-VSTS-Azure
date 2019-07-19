@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "hostingPlanName": {
+      "value": "PlanDevopDjbaena"
+    },
+    "administratorLogin": {
+      "value": "support"
+    },
+    "administratorLoginPassword": {
+      "value": "1Colombia"
+    },
+    "databaseName": {
+      "value": "arm-devop-database"
+    },
+    "webSiteName": {
+      "value": "arm-devop-web"
+
+    },
+
+    "sqlserverName": {
+      "value": "arm-devop-sql"
+    }
+  }
+}
